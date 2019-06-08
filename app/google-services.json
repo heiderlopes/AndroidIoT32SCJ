@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1010670063261",
+    "firebase_url": "https://androidiot32scj.firebaseio.com",
+    "project_id": "androidiot32scj",
+    "storage_bucket": "androidiot32scj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010670063261:android:4314a5625d9a37fc",
+        "android_client_info": {
+          "package_name": "br.com.heiderlopes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1010670063261-724jmmvoc0mqi0n39oirgh7qvlm6ueku.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.heiderlopes",
+            "certificate_hash": "18748fd7930d8ed2b8468a9c4147ccf349f6528c"
+          }
+        },
+        {
+          "client_id": "1010670063261-mq75rmj8sldftv6h3ueb144o4vobu290.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmV42Roa-BpLdKimfLiM4ohRa_Zmidclw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1010670063261-mq75rmj8sldftv6h3ueb144o4vobu290.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
